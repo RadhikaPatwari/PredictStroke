@@ -1,3 +1,4 @@
+--find-links wheelhouse
 backports-abc==0.5
 backports.functools-lru-cache==1.5
 backports.shutil-get-terminal-size==1.0.0
@@ -5,7 +6,7 @@ bokeh==1.0.1
 Click==7.0
 cycler==0.10.0
 Flask==1.0.2
-futures==3.2.0
+futures==3.1.1
 idx==0.0.0
 itsdangerous==1.1.0
 Jinja2==2.10
